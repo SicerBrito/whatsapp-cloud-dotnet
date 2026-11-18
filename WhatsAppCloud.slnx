@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/WhatsAppCloud.Api/WhatsAppCloud.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/WhatsAppCloud.Tests/WhatsAppCloud.Tests.csproj" />
+  </Folder>
+</Solution>
